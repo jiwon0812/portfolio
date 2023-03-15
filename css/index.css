@@ -47,20 +47,20 @@ body {font-family: 'Nanumsquare', 'Raleway'; cursor: default;}
 .pr_container .pr_profile div img {width: 200px;}
 .pr_container .pr_profile ul {margin-top: 80px; border-left: 3px solid #ad84f8; padding-left: 10px;}
 .pr_container .pr_profile ul li {padding-bottom: 15px;}
-.pr_container .pr_profile ul li:nth-child(1) {padding-bottom: 30px; font-size: 18px; font-weight: bold;}
+.pr_container .pr_profile ul li:nth-child(1) {padding-bottom: 30px; font-size: 15px; font-weight: bold;}
 .pr_container .pr_profile ul li:nth-child(4) {padding-bottom: 0px;}
 .pr_container .pr_profile ul li i {padding-right: 10px;}
 
 /*s1 education, license*/
-.pr_container .right_box {width: 72%; display: inline-block; position: relative; /*padding-top: 20px;*/}
-.right_box .pr_box {margin-bottom: 45px;}
+.pr_container .right_box {width: 63%; display: inline-block; position: relative; padding-top: 20px;}
+.right_box .pr_box {margin-bottom: 55px;}
 .right_box .pr_box:after {content: ""; display: block; clear: both;}
 .right_box .pr_box .pr_title {float: left; display: inline-block; width: 20%; position: relative; left: 0; top: 0; color: #46524a; font-size: 20px; border-left: 3px solid #ad84f8; padding-left: 10px;}
 .right_box .pr_box .pr_date {float: left; display: inline-block; width: 25%;}
-.right_box .pr_box .pr_date div {padding-bottom: 15px;}
+.right_box .pr_box .pr_date div {padding-bottom: 51px;}
 .right_box .pr_box .pr_date div br {display: none;}
-.right_box .pr_box .pr_txt {width: 55%; display: inline-block;}
-.right_box .pr_box .pr_txt div {padding-bottom: 15px; font-weight: bold}
+.right_box .pr_box .pr_txt {width: 47%; display: inline-block;}
+.right_box .pr_box .pr_txt div {padding-bottom: 20px; font-weight: 500; color: blueviolet;}
 .right_box .pr_box .pr_txt div:nth-of-type(2) {padding-bottom: 15px;}
 .right_box .pr_box .pr_txt ul {padding-left: 20px;}
 .right_box .pr_box .pr_txt ul li {padding-bottom: 10px; word-spacing: 3px; font-size: 14px;}
